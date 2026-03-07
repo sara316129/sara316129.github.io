@@ -351,6 +351,13 @@ section { padding: 80px 40px; max-width: 1200px; margin: 0 auto; }
 
 .card.hidden { display: none; }
 
+.card-img {
+  width: 100%;
+  aspect-ratio: 16/9;
+  object-fit: cover;
+  display: block;
+}
+
 .card-img-placeholder {
   width: 100%;
   height: 220px;
@@ -437,6 +444,14 @@ section { padding: 80px 40px; max-width: 1200px; margin: 0 auto; }
   min-width: 100px;
   height: auto;
   font-size: 2rem;
+}
+
+.side-cards .card-img {
+  width: 100px;
+  min-width: 100px;
+  height: 100%;
+  aspect-ratio: unset;
+  object-fit: cover;
 }
 
 .side-cards .card-body { padding: 16px; }
