@@ -446,12 +446,14 @@ section { padding: 80px 40px; max-width: 1200px; margin: 0 auto; }
   font-size: 2rem;
 }
 
-.side-cards .card-img {
+.side-cards .card-img,
+.side-cards .side-img {
   width: 100px;
   min-width: 100px;
   height: 100%;
   aspect-ratio: unset;
   object-fit: cover;
+  align-self: stretch;
 }
 
 .side-cards .card-body { padding: 16px; }
