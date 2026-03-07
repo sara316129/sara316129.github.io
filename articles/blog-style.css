@@ -374,12 +374,9 @@ nav {
 
 .related-card-img {
   width: 100%;
-  height: 160px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 2.8rem;
-  background: linear-gradient(135deg, #150510, #05050f, #100510);
+  aspect-ratio: 16/9;
+  object-fit: cover;
+  display: block;
 }
 
 .related-card-body {
