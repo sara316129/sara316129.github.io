@@ -191,6 +191,18 @@
       "date": "2026-02-19",
       "readTime": "14 min",
       "featured": false
+    },
+    {
+      "id": 17,
+      "title": "The Philadelphia Experiment",
+      "slug": "philadelphia-experiment",
+      "category": "unexplained",
+      "categoryDisplay": "Military Mystery",
+      "icon": "⚓",
+      "excerpt": "In 1943 the US Navy allegedly made a warship invisible and teleported it. Sailors went mad. Some fused into the hull. The Navy denies it ever happened...",
+      "date": "2026-03-08",
+      "readTime": "8 min",
+      "featured": false
     }
   ],
   "categories": {
