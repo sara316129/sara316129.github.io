@@ -1,16 +1,10 @@
 // MysteryTrace Blog Articles - JavaScript
 
-// ===== MONETAG MULTITAG — AUTO INJECT =====
-// Injects Monetag's official script into every blog page automatically
-// No need to edit 16 HTML files — this handles all of them
-(function() {
-  const s = document.createElement('script');
-  s.src = 'https://quge5.com/88/tag.min.js';
-  s.setAttribute('data-zone', '217224');
-  s.setAttribute('data-cfasync', 'false');
-  s.async = true;
-  document.head.appendChild(s);
-})();
+// ===== MONETAG IN-PAGE PUSH — AUTO INJECT =====
+(function(s){
+  s.dataset.zone = '10717779';
+  s.src = 'https://nap5k.com/tag.min.js';
+})([document.documentElement, document.body].filter(Boolean).pop().appendChild(document.createElement('script')));
 
 // ===== MONETAG VIGNETTE BANNER — AUTO INJECT =====
 (function(s){
