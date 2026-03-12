@@ -1,6 +1,18 @@
 // MysteryTrace Homepage - Dynamic loader from posts.json
 // To add a new post: just add an entry to posts.json — homepage updates automatically!
 
+// ===== MONETAG IN-PAGE PUSH — AUTO INJECT =====
+(function(s){
+  s.dataset.zone = '10717779';
+  s.src = 'https://nap5k.com/tag.min.js';
+})([document.documentElement, document.body].filter(Boolean).pop().appendChild(document.createElement('script')));
+
+// ===== MONETAG VIGNETTE BANNER — AUTO INJECT =====
+(function(s){
+  s.dataset.zone = '10706013';
+  s.src = 'https://gizokraijaw.net/vignette.min.js';
+})([document.documentElement, document.body].filter(Boolean).pop().appendChild(document.createElement('script')));
+
 const POSTS_PER_PAGE = 9; // How many posts show before "Load More"
 let allPosts = [];
 let currentFilter = 'all';
