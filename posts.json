@@ -203,6 +203,18 @@
       "date": "2026-03-08",
       "readTime": "8 min",
       "featured": false
+    },
+    {
+      "id": 18,
+      "title": "A Whale Has Been Calling for 30 Years — No Other Whale Can Hear It",
+      "slug": "52-hertz-whale",
+      "category": "ocean",
+      "categoryDisplay": "Ocean Mystery",
+      "icon": "🐋",
+      "excerpt": "Since 1989, a whale has been calling at 52 Hertz — a frequency no other whale can hear. For 30 years it swam alone. Then in 2020, scientists detected a second whale.",
+      "date": "2026-03-13",
+      "readTime": "12 min",
+      "featured": true
     }
   ],
   "categories": {
