@@ -233,12 +233,12 @@
     "all": {
       "name": "All Stories",
       "icon": "🔍",
-      "count": 18
+      "count": 19
     },
     "space": {
       "name": "Space Mysteries",
       "icon": "🚀",
-      "count": 4
+      "count": 5
     },
     "disappearance": {
       "name": "Disappearances",
