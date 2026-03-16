@@ -1,6 +1,18 @@
 {
   "posts": [
     {
+      "id": 19,
+      "title": "A UFO Crashed in 1965 — The Military Took It and Disappeared",
+      "slug": "kecksburg-ufo",
+      "category": "space",
+      "categoryDisplay": "UFO Incident",
+      "icon": "🛸",
+      "excerpt": "December 9, 1965. Hundreds witnessed a fireball crash in Pennsylvania. Military seized an acorn-shaped object covered in symbols. 60 years later, NASA files remain classified.",
+      "date": "2026-03-17",
+      "readTime": "13 min",
+      "featured": true
+    },
+    {
       "id": 18,
       "title": "A Whale Has Been Calling for 30 Years — No Other Whale Can Hear It",
       "slug": "52-hertz-whale",
